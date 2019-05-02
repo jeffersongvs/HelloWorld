@@ -1,7 +1,14 @@
-
+package helloworld;
 
 public class Hello {
 
-	 System.out.println("Hello World");
-	 
+	private void yso() {
+		
+		
+		String n = "Hello World";
+		System.out.println(n);
+		
+	
+
+	}
 }
